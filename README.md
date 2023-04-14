@@ -6,7 +6,7 @@ SockJS 연동 테스트용 스프링부트 서버
 `http://localhost:8080/ws`
 
 ### 메시지 발송 
-`http://localhost:8080/app/ws`
+`http://localhost:8080/app/topic`
 
 ### 메시지 타입
 ```json
